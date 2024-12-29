@@ -1,0 +1,18 @@
+2024-12-29T19:06:02,332 [main] INFO  (BaseTest.java:32) - Navigate to https://www.demoblaze.com
+2024-12-29T19:06:05,657 [main] INFO  (BaseTest.java:62) - Closing the driver
+2024-12-29T19:13:01,662 [main] INFO  (JsonTestDataHelper.java:29) - JsonTestDataHelper created
+2024-12-29T19:13:01,668 [main] INFO  (JsonTestDataHelper.java:37) - filePath: resources/testdata/login/validLoginData.json
+2024-12-29T19:13:01,694 [main] INFO  (JsonTestDataHelper.java:40) - geTestData: [demoBlaze.models.testData.LoginData@47404bea, demoBlaze.models.testData.LoginData@305f7627, demoBlaze.models.testData.LoginData@5d018107]
+2024-12-29T19:13:07,622 [main] INFO  (BaseTest.java:32) - Navigate to https://www.demoblaze.com
+2024-12-29T19:13:14,423 [main] INFO  (BaseTest.java:62) - Closing the driver
+2024-12-29T19:13:19,178 [main] INFO  (BaseTest.java:32) - Navigate to https://www.demoblaze.com
+2024-12-29T19:13:22,945 [main] INFO  (BaseTest.java:62) - Closing the driver
+2024-12-29T19:13:28,012 [main] INFO  (BaseTest.java:32) - Navigate to https://www.demoblaze.com
+2024-12-29T19:13:32,548 [main] INFO  (BaseTest.java:62) - Closing the driver
+2024-12-29T19:13:46,990 [main] INFO  (JsonTestDataHelper.java:29) - JsonTestDataHelper created
+2024-12-29T19:13:46,995 [main] INFO  (JsonTestDataHelper.java:37) - filePath: resources/testdata/purchase/purchaseProduct.json
+2024-12-29T19:13:47,023 [main] INFO  (JsonTestDataHelper.java:40) - geTestData: [demoBlaze.models.testData.ProductSelection@47404bea, demoBlaze.models.testData.ProductSelection@305f7627]
+2024-12-29T19:13:52,060 [main] INFO  (BaseTest.java:32) - Navigate to https://www.demoblaze.com
+2024-12-29T19:14:02,968 [main] INFO  (BaseTest.java:62) - Closing the driver
+2024-12-29T19:14:07,598 [main] INFO  (BaseTest.java:32) - Navigate to https://www.demoblaze.com
+2024-12-29T19:14:17,579 [main] INFO  (BaseTest.java:62) - Closing the driver

@@ -1,0 +1,2 @@
+2024-12-29T18:55:28,317 [main] INFO  (BaseTest.java:32) - Navigate to https://www.demoblaze.com
+2024-12-29T18:55:31,960 [main] INFO  (BaseTest.java:62) - Closing the driver

@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Full Regression" verbose="1">
+    <parameter name="url" value="https://www.demoblaze.com/"/>
+    <test name="All Test firefox" >
+        <parameter name="browser" value="firefox"/>
+        <packages>
+            <package name="login"/>
+            <package name="purchase" />
+        </packages>
+    </test>
+    <test name="All Test chrome" >
+        <parameter name="browser" value="chrome"/>
+        <packages>
+            <package name="login" />
+            <package name="purchase" />
+        </packages>
+    </test>
+</suite>
